@@ -1,0 +1,7 @@
+aid: robert-half-international
+url: https://raw.githubusercontent.com/api-evangelist/robert-half-international/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.robert-half-international.com
