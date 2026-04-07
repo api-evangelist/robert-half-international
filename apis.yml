@@ -1,7 +1,12 @@
 aid: robert-half-international
-url: https://raw.githubusercontent.com/api-evangelist/robert-half-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/robert-half-international/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.robert-half-international.com
+description: >-
+  Robert Half is the world's first and largest specialized staffing firm, placing
+  professionals on a temporary, project, and full-time basis in finance and accounting,
+  technology, marketing, legal, and administrative fields.
