@@ -1,0 +1,100 @@
+vocabulary:
+  name: Robert Half International Staffing Vocabulary
+  description: >-
+    Domain vocabulary for Robert Half International covering staffing,
+    talent acquisition, recruiting, and professional services concepts.
+  version: "1.0.0"
+  created: "2026-05-02"
+
+terms:
+  - term: TalentSolutions
+    definition: >-
+      Robert Half's comprehensive service offerings connecting skilled
+      professionals with employers across finance, technology, marketing,
+      legal, and administrative fields.
+    category: Service Offering
+
+  - term: TemporaryPlacement
+    definition: >-
+      Short-term staffing where professionals are placed with client companies
+      for defined project periods or to cover workforce gaps.
+    category: Placement Type
+    relatedTerms:
+      - ContractPlacement
+      - PermanentPlacement
+
+  - term: ContractPlacement
+    definition: >-
+      Project-based professional staffing for defined engagements, typically
+      longer-term than temporary but not permanent employment.
+    category: Placement Type
+    relatedTerms:
+      - TemporaryPlacement
+      - PermanentPlacement
+
+  - term: PermanentPlacement
+    definition: >-
+      Full-time direct hire placement connecting professionals with client
+      companies for ongoing employment.
+    category: Placement Type
+    relatedTerms:
+      - TemporaryPlacement
+      - ContractPlacement
+
+  - term: Protiviti
+    definition: >-
+      A global consulting firm and wholly-owned subsidiary of Robert Half,
+      providing internal audit, risk management, and business consulting
+      services.
+    category: Subsidiary
+
+  - term: SpecializedStaffing
+    definition: >-
+      Robert Half's core service model focusing on niche talent areas:
+      finance and accounting, technology, marketing and creative, legal,
+      and administrative support.
+    category: Business Model
+    relatedTerms:
+      - TalentSolutions
+
+  - term: WorkforceAgility
+    definition: >-
+      The capability to rapidly scale professional talent up or down based
+      on business needs, a core value proposition of staffing firms.
+    category: Business Value
+
+  - term: Finance
+    definition: >-
+      Staffing division for finance and accounting professionals including
+      CFOs, controllers, accountants, and financial analysts.
+    category: Practice Area
+
+  - term: Technology
+    definition: >-
+      IT staffing division for technology professionals including software
+      developers, cybersecurity experts, data scientists, and IT managers.
+    category: Practice Area
+
+  - term: Marketing
+    definition: >-
+      Creative and marketing staffing for brand managers, digital marketers,
+      designers, and content strategists.
+    category: Practice Area
+
+  - term: Legal
+    definition: >-
+      Legal staffing for attorneys, paralegals, compliance officers, and
+      legal support staff.
+    category: Practice Area
+
+  - term: Administrative
+    definition: >-
+      Staffing for administrative professionals including executive assistants,
+      office managers, and data entry specialists.
+    category: Practice Area
+
+  - term: FortuneRanking
+    definition: >-
+      Robert Half International is ranked in the Fortune 500, reflecting its
+      status as a large publicly traded company.
+    category: Company Classification
