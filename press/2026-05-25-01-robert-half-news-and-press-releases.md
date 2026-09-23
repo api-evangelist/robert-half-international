@@ -1,7 +1,9 @@
 ---
 title: Robert Half News and Press Releases
 url: https://www.prnewswire.com/news/robert-half/?page=26
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Robert Half International" press release artificial intelligence'
 position: 1
 source: serpapi-google

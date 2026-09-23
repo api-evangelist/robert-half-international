@@ -1,7 +1,9 @@
 ---
 title: Robert Half International (NYSE:RHI) Stock Price News
 url: https://stocklight.com/stocks/us/nyse-rhi/robert-half-international
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Robert Half International" press release artificial intelligence'
 position: 4
 source: serpapi-google
